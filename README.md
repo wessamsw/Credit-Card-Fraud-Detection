@@ -19,8 +19,3 @@ It is important that credit card companies are able to recognize fraudulent cred
 * Seaborn.
 * Time.
 * Collections.
-
-## Getting Started
-
-* Start by understanding the dataset and the problem trying to solve from the [proposal](https://github.com/RamyGendy/CreditCardFraudDetection/blob/main/Proposal.md).
-* Then moving forward to Clone this repository `git clone https://github.com/RamyGendy/CreditCardFraudDetection.git` into AWS Sagemaker Studio or Google Colab (or download manually on local machine).
